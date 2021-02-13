@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (5.4.1)
+  - AlamofireImage (4.1.0):
+    - Alamofire (~> 5.1)
+  - Nimble (9.0.0)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - Quick (3.0.0)
+  - SwiftFormat/CLI (0.47.10)
+  - Swinject (2.7.1)
+  - SwinjectAutoregistration (2.7.0):
+    - Swinject (~> 2.7)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - Nimble
+  - NVActivityIndicatorView
+  - Quick
+  - SwiftFormat/CLI
+  - Swinject
+  - SwinjectAutoregistration
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - Nimble
+    - NVActivityIndicatorView
+    - Quick
+    - SwiftFormat
+    - Swinject
+    - SwinjectAutoregistration
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  AlamofireImage: c4a2ba349885fb3064feb74d2e547bd42ce9be10
+  Nimble: 3b4ec3fd40f1dc178058e0981107721c615643d8
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  Quick: 6d9559f40647bc4d510103842ef2fdd882d753e2
+  SwiftFormat: b847ac37506435242af1a2e3b34b1fb31a4d3e6c
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+  SwinjectAutoregistration: 330f5012642a8b5c89a8a4adb0c5e52df07382c0
+
+PODFILE CHECKSUM: d07f60e9a6b0334fad84d014e5a667701bcddde4
+
+COCOAPODS: 1.10.0
